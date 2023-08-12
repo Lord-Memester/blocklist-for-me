@@ -19,3 +19,5 @@ auction.unityads.unity3d.com
 notes-analytics-events.apple.com
 weather-analytics-events.apple.com
 books-analytics-events.apple.com
+browser.sentry-cdn.com
+appmetrica.yandex.ru
